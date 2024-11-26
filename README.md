@@ -34,7 +34,7 @@ This project is a **Real-Time Quality Monitoring System** designed for monitorin
 ```plaintext
 .
 ├── sensor_data.csv       # Logged sensor data (created by the program)
-├── Quality_Monitoring.m     # MATLAB script for visualization and analysis
-├── QualityMonitoring.c                # C code for real-time data acquisition and logging
+├── Quality_Monitoring.m  # MATLAB script for visualization and analysis
+├── QualityMonitoring.c   # C code for real-time data acquisition and logging
 ├── README.md             # Project documentation
 ├── sensor_plots.png      # Saved visualization from MATLAB (output)
